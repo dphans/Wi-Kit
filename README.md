@@ -22,7 +22,7 @@ __An IoT project using Heltec Wifi Lora 32 (ESP32), include useful online servic
 
 ### Installation Instructions
 
-- Clone latest firmware (*.bin) file from this repository then use `esptool.py` command to flash firmware into chipset:
+- Clone latest firmware (*.bin) file from this repository then use [`esptool.py`](https://github.com/espressif/esptool) command to flash firmware into chipset:
 
 ```bash
 git clone https://github.com/dphans/Wi-Kit.git
