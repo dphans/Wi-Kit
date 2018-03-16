@@ -36,3 +36,8 @@ __An IoT project using Heltec Wifi Lora 32 (ESP32), include useful online servic
 
 ### Photos
 
+![Homepage](https://github.com/dphans/Wi-Kit/blob/master/screenshots/screenshot-homepage.png?raw=true)
+![Network Settings](https://github.com/dphans/Wi-Kit/blob/master/screenshots/screenshot-station.png?raw=true)
+![General Settings](https://github.com/dphans/Wi-Kit/blob/master/screenshots/screenshot-general.png?raw=true)
+![Plugins](https://github.com/dphans/Wi-Kit/blob/master/screenshots/screenshot-plugins.png?raw=true)
+
