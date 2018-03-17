@@ -27,7 +27,7 @@ __An IoT project using Heltec Wifi Lora 32 (ESP32), include useful online servic
 ```bash
 git clone https://github.com/dphans/Wi-Kit.git
 cd Wi-Kit
-esptool.py --chip esp32 --port /dev/tty.SLAB_USBtoUART --baud 921600 --before default_reset --after hard_reset write_flash -z 0x1000 bootloader.bin 0x8000 partitions.bin 0xe000 boot_app0.bin  0x10000 firmware.bin
+esptool.py --chip esp32 --port /dev/tty.SLAB_USBtoUART --baud 921600 --before default_reset --after hard_reset write_flash -z 0x1000 bootloader.bin 0x8000 partitions.bin 0xe000 boot_app0.bin  0x10000 wikit_firmware_*
 cd ..
 rm -rf Wi-Kit
 ```
